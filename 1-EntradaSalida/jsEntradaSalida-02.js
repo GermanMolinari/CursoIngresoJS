@@ -14,6 +14,7 @@ function mostrar()
 
 /* ENTRADAS: prompt 
 				id.value
+				document.getelementbyID
 
 PROCESOS:
 
