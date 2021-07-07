@@ -15,10 +15,13 @@ function mostrar()
 /* ENTRADAS: prompt 
 				id.value
 				document.getelementbyID
-
+				X = id.value
 PROCESOS:
+		+; -; *; /; %;
 
+		
 SALIDA: alert
 		console.log
-
+		document.write
+		id.value = x
 */ 
