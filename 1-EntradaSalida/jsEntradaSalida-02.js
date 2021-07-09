@@ -6,8 +6,8 @@ function mostrar()
 	var nombreIngresado ; 
 	
   nombreIngresado =   prompt ("Ingrese su nombre") ;
-.
-	console.log ("su nombre es: " +  nombreIngresado);
+
+	document.write ("su nombre es: " +  nombreIngresado);
 
 
 }
